@@ -5,3 +5,4 @@ edit of noatmc's it had hwid stuff and some errors that i fixed just wanted to h
   - Noatmc | For original src https://github.com/noatmc/Perry-Phobos-Leaked-Buildable  
   - (idk who originally leaked the jar originally but apperently it was master7720 so credits to him ig)  
   - also no hate to the devs its old
+  - also also i dont even know if this still builds as i changed a few things
